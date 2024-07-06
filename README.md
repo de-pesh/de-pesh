@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/de-pesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="de-pesh" height="30" width="40" /></a>
 <a href="https://kaggle.com/deepesh1379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="deepesh1379" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/de-pesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="de" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@de-pesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="de" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/de_pesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="de_pesh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/de-pesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="de-pesh" height="30" width="40" /></a>
 </p>
