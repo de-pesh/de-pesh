@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=de-pesh&label=Profile%20views&color=0e75b6&style=flat" alt="de-pesh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=de-pesh" alt="de-pesh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=de-pesh&theme=onedark" alt="de-pesh" /></a> </p>
 
 - 👨‍💻 My resume: [https://drive.google.com/file/d/1CNaUrV0O0MIQforDVedcrOO0WPJW7K-z/view?usp=sharing](https://drive.google.com/file/d/1CNaUrV0O0MIQforDVedcrOO0WPJW7K-z/view?usp=sharing)
 
