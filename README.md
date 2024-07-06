@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=de-pesh" alt="de-pesh" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1CNaUrV0O0MIQforDVedcrOO0WPJW7K-z/view?usp=sharing](https://drive.google.com/file/d/1CNaUrV0O0MIQforDVedcrOO0WPJW7K-z/view?usp=sharing)
+- 👨‍💻 My resume: [https://drive.google.com/file/d/1CNaUrV0O0MIQforDVedcrOO0WPJW7K-z/view?usp=sharing](https://drive.google.com/file/d/1CNaUrV0O0MIQforDVedcrOO0WPJW7K-z/view?usp=sharing)
 
-- 📫 How to reach me **deepesh1379@gmail.com**
+- 📫 How to reach me: **deepesh1379@gmail.com**
 
-- 📄 Know about my experiences [https://de-pesh.github.io/portfolio/#header](https://de-pesh.github.io/portfolio/#header)
+- 📄 My site: [https://de-pesh.github.io/portfolio/#header](https://de-pesh.github.io/portfolio/#header)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
