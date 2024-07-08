@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **deepesh1379@gmail.com**
 
-- 📄 My site: [https://de-pesh.github.io/portfolio/#header](https://de-pesh.github.io/portfolio/#header)
+- 📄 My site: [https://de-pesh.github.io/portfolio/#header](de-pesh.github.io/portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
