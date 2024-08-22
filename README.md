@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=de-pesh&theme=onedark" alt="de-pesh" /></a> </p>
 
-- 👨‍💻 My resume: [Link](https://drive.google.com/file/d/1CNaUrV0O0MIQforDVedcrOO0WPJW7K-z/view?usp=sharing)
+- 👨‍💻 My resume: [Link](https://drive.google.com/file/d/1Jr7X0evwiZ2LTh94CTGHG3WZJBlBQ82p/view?usp=sharing)
 
 - 📫 How to reach me: **deepesh1379@gmail.com**
 
