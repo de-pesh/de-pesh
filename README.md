@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **deepesh1379@gmail.com**
 
-- 📄 My site: [Link](https://de-pesh.github.io/portfolio/)
+- 🖥️ My site: [Link](https://de-pesh.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
