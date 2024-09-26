@@ -1,4 +1,4 @@
-<h1 align="center" style="font-color:red;">Hi!, I'm Deepesh</h1>
+<h1 align="center" style="font-color:red;">Hi!, I am Deepesh</h1>
 <h3 align="center">A passionate data analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=de-pesh&label=Profile%20views&color=0e75b6&style=flat" alt="de-pesh" /> </p>
