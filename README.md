@@ -1,12 +1,23 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=de-pesh&label=Profile%20views&color=0e75b6&style=plastic" alt="de-pesh" /> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deepesh!;" />
 </h1>
 <h2 align="center">A passionate data analyst</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=de-pesh&label=Profile%20views&color=0e75b6&style=plastic" alt="de-pesh" /> </p>
 
-- 👨‍💻 My resume: [Link](https://drive.google.com/file/d/1Jr7X0evwiZ2LTh94CTGHG3WZJBlBQ82p/view?usp=sharing)
+<div align="center">
+ 
+ 🔭 **I turn data into Insights**
+ 
+ 🌱 I’m currently learning **Machine Learning**
 
+💬 Ask me about **Data Analytics, Python, SQL, C, C++ or anything tech related [here](https://github.com/de-pesh/de-pesh/issues)**
+
+⚡ Actively seeking opportunities for a Data Analyst role. Please feel free to reach out.
+
+📃 My resume : [Link](https://drive.google.com/file/d/1Jr7X0evwiZ2LTh94CTGHG3WZJBlBQ82p/view?usp=sharing)
+
+ </div>
 
 </div>
  
