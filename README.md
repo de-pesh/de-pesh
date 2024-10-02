@@ -16,7 +16,7 @@
 
 ⚡ Actively seeking opportunities for a Data Analyst role. Please feel free to reach out.
 
-📃 My resume : [Link](https://drive.google.com/file/d/1Jr7X0evwiZ2LTh94CTGHG3WZJBlBQ82p/view?usp=sharing)
+📃 My resume : [Link](https://drive.google.com/file/d/1rvDUUr0uKRr93C2TWJsjFYNazYJqkPKfzN7_nowcTCM/view?usp=sharing)
 
  </div>
 
