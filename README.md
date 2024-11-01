@@ -1,7 +1,7 @@
 <p align="right"> 
 <>    <img src="https://komarev.com/ghpvc/?username=de-pesh&label=Profile%20views&color=0e75b6&style=plastic" alt="de-pesh" /> 
     <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=bibhushansaakha&label=Profile%20Views&color=1&icon=3&pretty=true"/>
+  <img src="https://visitcount.itsvg.in/api?id=de-pesh&label=Profile%20Views&color=1&icon=3&pretty=true"/>
     </a>
 </p>
 <h1 align="center">
