@@ -1,8 +1,8 @@
 <p align="right"> 
-<!---    <img src="https://komarev.com/ghpvc/?username=de-pesh&label=Profile%20views&color=0e75b6&style=plastic" alt="de-pesh" /> -->
-    <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=de-pesh&label=Profile%20views&color=0e75b6&style=plastic" alt="de-pesh" />
+<!---    <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=de-pesh&label=Profile%20Views&color=1&icon=0&pretty=true" />
-</a>
+</a> -->
 </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Deepesh!;" />
