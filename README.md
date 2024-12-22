@@ -20,7 +20,7 @@
  
  🌱 I’m currently learning **Machine Learning**
 
-💬 Ask me about **Data Analytics, Python, SQL, C, C++ or anything tech related [here](https://github.com/de-pesh/de-pesh/issues)**
+💬 Ask me about **Programming, Data Analytics, Python, SQL, C, C++ or anything tech related [here](https://github.com/de-pesh/de-pesh/issues)**
 
 ⚡ Actively seeking opportunities for a Data Analyst role. Please feel free to reach out.
 
