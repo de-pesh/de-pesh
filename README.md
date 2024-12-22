@@ -11,12 +11,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Deepesh!;" />
 </h1>
  
-<h2 align="center">A passionate data analyst</h2>
+<h2 align="center">I am a passionate data analyst and Software Engineer</h2>
 <br/>
 
 <div align="center">
  
- 🔭 **I turn data into Insights**
+ 🔭 **I build software and turn data into Insights**
  
  🌱 I’m currently learning **Machine Learning**
 
