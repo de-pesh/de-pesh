@@ -24,7 +24,7 @@
 
 ⚡ Actively seeking opportunities for a Data Analyst or a Software Engineer role. Please feel free to reach out.
 
-📃 My CV : [Link](https://drive.google.com/file/d/1rvDUUr0uKRr93C2TWJsjFYNazYJqkPKfzN7_nowcTCM/view?usp=sharing)
+📃 My CV : [Link](https://drive.google.com/file/d/1ejyWTlz_2Uf-8w2_7JgkSaGOwxoCzEXMJScbimSifEU/view?usp=sharing)
 
  </div>
 
