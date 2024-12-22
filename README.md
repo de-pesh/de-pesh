@@ -22,9 +22,9 @@
 
 💬 Ask me about **Programming, Data Analytics, Python, SQL, C, C++ or anything tech related [here](https://github.com/de-pesh/de-pesh/issues)**
 
-⚡ Actively seeking opportunities for a Data Analyst role. Please feel free to reach out.
+⚡ Actively seeking opportunities for a Data Analyst or a Software Engineer role. Please feel free to reach out.
 
-📃 My resume : [Link](https://drive.google.com/file/d/1rvDUUr0uKRr93C2TWJsjFYNazYJqkPKfzN7_nowcTCM/view?usp=sharing)
+📃 My CV : [Link](https://drive.google.com/file/d/1rvDUUr0uKRr93C2TWJsjFYNazYJqkPKfzN7_nowcTCM/view?usp=sharing)
 
  </div>
 
