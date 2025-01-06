@@ -16,7 +16,7 @@
 
 <div align="center">
  
- 🔭 **I build software and turn data into Insights**
+ 🔭 **I build softwares and turn data into Insights**
  
  🌱 I’m currently learning **Machine Learning**
 
